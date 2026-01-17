@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mayank Khare
 
-I'm a **Senior Software Engineer** with 6.3+ years of experience building robust, beautiful, and scalable web applications. I specialize in turning complex problems into intuitive digital experiences — and love working across the full stack, with a strong focus on modern frontend technologies.
+I'm a **Senior Software Engineer** with nearly 7 years of experience building robust, beautiful, and scalable web applications. I specialize in turning complex problems into intuitive digital experiences — and love working across the full stack, with a strong focus on modern frontend technologies.
 
 ## 🚀 Tech Stack
 
@@ -23,7 +23,8 @@ I'm a **Senior Software Engineer** with 6.3+ years of experience building robust
 - Webpack, Vite, Babel  
 - Testing Library, Jest, Cypress  
 - Responsive & Accessible UI Design  
-- Performance Optimization, Code Splitting  
+- Performance Optimization, Code Splitting
+- Agora & WebRTC
 
 **Backend:**  
 - NestJS  
