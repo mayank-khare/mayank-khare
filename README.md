@@ -57,6 +57,7 @@ I'm a **Senior Software Engineer** with nearly 7 years of experience building ro
 
 - [LinkedIn](https://www.linkedin.com/in/mayankkh/)
 - [GitHub](https://github.com/mayank-khare)
+- [Mail](mailto:mayankkhare92@gmail.com)
 
 > “Building the web, one pixel at a time. ⚡”
 
